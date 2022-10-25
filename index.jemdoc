@@ -1,0 +1,21 @@
+# jemdoc: menu{MENU}{index.html}
+= Baturalp Buyukates
+
+~~~
+{}{img_left}{batu_cropped2.jpeg}{alt text}{221.4px}{276.4px}{}
+*Baturalp Buyukates* \n
+Ph.D. student in Electrical Engineering\n
+[https://ece.umd.edu/ Department of Electrical and Computer Engineering] \n
+[https://umd.edu/ University of Maryland, College Park]  \n \n
+*office:* AVW 2454\n
+*email:* baturalp@umd.edu\n
+*web:* [https://user.eng.umd.edu/~baturalp/] \n
+~~~
+
+== Research Interests
+   Information theory, wireless communications, networks and machine learning with a current focus on
+
+ - Age of information
+ - Scaling laws
+ - Resource allocation in low latency wireless communication systems
+
