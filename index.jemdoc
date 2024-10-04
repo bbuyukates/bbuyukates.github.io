@@ -4,18 +4,21 @@
 ~~~
 {}{img_left}{batu_cropped2.jpeg}{alt text}{221.4px}{276.4px}{}
 *Baturalp Buyukates* \n
-Postdoctoral Research Associate\n
-[https://minghsiehece.usc.edu Ming Hsieh Department of Electrical and Computer Engineering ] \n
-[https://usc.edu/ University of Southern California]  \n \n
-*office:* EEB 506\n
-*email:* buyukate@usc.edu\n
+Assistant Professor\n
+[https://www.birmingham.ac.uk/schools/computer-science School of Computer Science ] \n
+[https://www.birmingham.ac.uk University of Birmingham]  \n \n
+*office:* UG 34\n
+*email:* b.buyukates@bham.ac.uk\n
 *web:* [https://bbuyukates.github.io] \n
 ~~~
 
 == Research Interests
-   Information theory, wireless communications, networks and machine learning with a current focus on
+   Machine Learning (ML), Trustworthy Generative Artificial Intelligence (AI), Human-Centred Computing, Distributed Systems, Wireless Communications, Networks, and Information Theory with a current focus on
 
- - Age of information
- - Scaling laws
- - Resource allocation in low latency wireless communication systems
+- Reliable and explainable large language models (LLMs)
+- Responsible data economics and valuation for collaborative ML
+- Secure, trustworthy, and verifiable federated learning and analytics
+- Privacy-preserving distributed ML
+- Timely information exchange in distributed systems
+- Semantics and age of information
 
